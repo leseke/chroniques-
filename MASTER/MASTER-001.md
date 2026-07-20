@@ -2,6 +2,8 @@
 
 Simulateur de vie de nouvelle génération.
 
+Version : 2.0
+
 ---
 
 # Nom
@@ -20,7 +22,7 @@ Il écrit la sienne.
 
 Chaque décision influence durablement son existence, ses relations, sa carrière, sa réputation, ses finances, sa santé, sa famille, son influence, son patrimoine et le monde qui l'entoure.
 
-Le jeu se déroule dans un univers contemporain vivant où des milliers de systèmes interagissent entre eux.
+Le jeu se déroule dans un monde ouvert contemporain où des milliers de systèmes interagissent entre eux.
 
 Chroniques a pour ambition d'offrir une simulation de vie profonde, libre et crédible, où chaque décision construit une histoire unique.
 
@@ -46,6 +48,20 @@ Chaque vie devient une Chronique différente.
 
 ---
 
+# La Lignée
+
+Le joueur ne construit pas un personnage unique.
+
+Il fonde une lignée qui traverse les générations.
+
+La mort clôt l'histoire d'un personnage. Elle ouvre celle de son successeur.
+
+Le temps investi n'est jamais perdu : il est transmis par l'héritage.
+
+La lignée est le véritable protagoniste de Chroniques.
+
+---
+
 # Objectifs
 
 Créer une simulation de vie capable de raconter une infinité d'histoires différentes.
@@ -61,6 +77,28 @@ Créer une économie dynamique.
 Développer une intelligence artificielle crédible.
 
 Offrir une rejouabilité quasi infinie.
+
+Transmettre l'héritage d'une génération à la suivante.
+
+---
+
+# Portée
+
+Chroniques se construit en deux temps.
+
+## Priorité
+
+L'expérience solo constitue la priorité du développement.
+
+Un joueur doit pouvoir vivre une lignée entière, du premier personnage à ses descendants, sans qu'aucune fonctionnalité en ligne ne soit nécessaire.
+
+## Anticipation
+
+L'architecture est conçue dès le départ pour supporter une civilisation partagée.
+
+Le multijoueur n'est pas implémenté dans les premières phases, mais aucun choix technique ne doit rendre son ajout impossible ou coûteux.
+
+Cette contrainte s'applique à tous les systèmes, sans exception.
 
 ---
 
