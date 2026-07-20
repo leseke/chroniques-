@@ -1,5 +1,7 @@
 # MASTER-002 — Principes Fondamentaux
 
+Version : 2.0
+
 ---
 
 # Mission
@@ -100,6 +102,36 @@ Les difficultés enrichissent la partie.
 Aucune partie ne doit être identique à une autre.
 
 Les événements, les rencontres, les opportunités et les conséquences produisent des chroniques uniques.
+
+---
+
+# Principe 9 — La lignée est le protagoniste
+
+Le joueur ne joue pas un personnage. Il conduit une lignée.
+
+La mort d'un personnage ne met jamais fin à la partie.
+
+Tout système doit prévoir ce qui se transmet à la génération suivante : biens, relations, réputation, savoirs, dettes ou secrets.
+
+Ce qui ne se transmet pas doit être un choix de conception assumé, jamais un oubli.
+
+---
+
+# Principe 10 — L'architecture anticipe le partage
+
+L'expérience solo est la priorité du développement.
+
+La civilisation partagée reste un objectif du projet.
+
+Aucun système ne doit rendre son ajout impossible ou coûteux.
+
+En pratique, tout système doit être :
+
+- sérialisable, afin que son état puisse être transmis ;
+- déterministe, afin qu'une même situation produise le même résultat ;
+- indépendant de l'interface, afin de pouvoir être exécuté ailleurs que sur la machine du joueur.
+
+Cette contrainte s'applique dès le premier prototype.
 
 ---
 
