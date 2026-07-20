@@ -1,18 +1,25 @@
 # MASTER-001 — Vision du Projet
 
-—
-
-# Nom du projet
+<<—
+>>>>>>>+main
+===
+---
+---
+>>>>>>>+origin/main
+om du projet
 
 Chroniques
 
-—
-
-# Vision
+<<<<—
+>>>>>>>+main
+=
+---
+>>---
+>>>>>>>+origin/main
+ion
 
 Chroniques est un simulateur de vie de nouvelle génération.
 
-Le joueur ne suit pas une histoire écrite à l’avance.
 
 Il écrit la sienne.
 
@@ -23,17 +30,26 @@ Le jeu se déroule dans un univers contemporain vivant où des milliers de syst�
 L’objectif est d’offrir la simulation de vie la plus profonde, la plus libre et la plus crédible jamais réalisée.
 
 —
+>>>>>>>+main
+ne histoLe joueur ne suit pas une histoire écrite à l'avance.
 
-# Concept
+Il écrit la sienne.
 
-Prendre la liberté de choix de BitLife et la transformer en une véritable simulation immersive.
+Chaque décision influence durablement son existence, ses relations, sa carrière, sa réputation, ses finances, sa santé, sa famille, son influence, son patrimoine et le monde qui l'entoure.
 
-Le joueur peut devenir n’importe qui.
+Le jeu se déroule dans un univers contemporain vivant où des milliers de systèmes interagissent entre eux.
 
-Créer une entreprise.
+L'objectif est d'offrir la simulation de vie la plus profonde, la plus libre et la plus crédible jamais réalisée.
 
-Faire de la politique.
+---
+>>>>>>>-origin/main
+itLife et la transformer en une véritable simulation immersive.
 
+<<<<<<< main
+Le joueur peut devenir n’importe Le joueur peut devenir n’importe qui.
+>>>>>>>+main
+>>>>> orLe joueur peut devenir n'importe qui.
+>>>>>>>-origin/main
 Construire une famille.
 
 Entrer dans le crime.
@@ -54,40 +70,50 @@ Ou simplement vivre une vie ordinaire.
 
 Chaque vie devient une chronique différente.
 
+<<<<<<< main
 —
 
 # Objectifs
 
+Créer une simulation de vie—
+
+# Objectifs
+
 Créer une simulation de vie capable de raconter une infinité d’histoires différentes.
+>>>>>>>+main
+e racont---
 
-Privilégier les systèmes plutôt que les scripts.
+# Objectifs
 
-Faire en sorte que chaque action possède des conséquences crédibles.
+Créer une simulation de vie capable de raconter une infinité d'histoires différentes.
+>>>>>>>-origin/main
+que chaque action possède des conséquences crédibles.
 
-Créer un monde qui continue d’évoluer avec ou sans le joueur.
+<<<<<<< main
+Créer un monde qui continue d’évoluer avec ou sans le joueuCréer un monde qui continue d’évoluer avec ou sans le joueur.
 
 —
+>>>>>>>+main
+>>>> oriCréer un monde qui continue d'évoluer avec ou sans le joueur.
 
-# Piliers
-
-- Liberté totale
-- Conséquences permanentes
-- Monde vivant
-- Simulation profonde
+---
+>>>>>>>-origin/main
+ion profonde
 - Progression organique
 - Économie dynamique
 - IA crédible
 - Rejouabilité quasi infinie
 
+<<<<<<< main
 —
 
 # Inspirations
 
 ## Fondations
 
-- BitLife
-
-## Simulation
+- BitL—
+>>>>>>>+main
+n
 
 - The Sims
 - Football Manager
@@ -110,12 +136,17 @@ Créer un monde qui continue d’évoluer avec ou sans le joueur.
 18+
 
 —
+main
 
-# Mission
+# ---
+>>>>>>>-origin/main
+nce mondiale du —
+>>>>>>>+main
+ de vie.---
+>>>>>>>-origin/main
 
-Créer la référence mondiale du jeu de simulation de vie.
-
-—
+---
+>>>>>>> origin/main
 
 # Devise
 
