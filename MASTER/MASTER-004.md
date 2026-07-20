@@ -1,6 +1,6 @@
 # MASTER-004 — Conventions de Documentation
 
-Version : 1
+Version : 1.0
 Statut : Officiel
 Type : Convention
 
