@@ -1,37 +1,20 @@
 # MASTER-001 — Vision du Projet
 
-<<—
->>>>>>>+main
-===
+Simulateur de vie de nouvelle génération.
+
 ---
----
->>>>>>>+origin/main
-om du projet
+
+# Nom
 
 Chroniques
 
-<<<<—
->>>>>>>+main
-=
 ---
->>---
->>>>>>>+origin/main
-ion
+
+# Vision
 
 Chroniques est un simulateur de vie de nouvelle génération.
 
-
-Il écrit la sienne.
-
-Chaque décision influence durablement son existence, ses relations, sa carrière, sa réputation, ses finances, sa santé, sa famille, son influence, son patrimoine et le monde qui l’entoure.
-
-Le jeu se déroule dans un univers contemporain vivant où des milliers de systèmes interagissent entre eux.
-
-L’objectif est d’offrir la simulation de vie la plus profonde, la plus libre et la plus crédible jamais réalisée.
-
-—
->>>>>>>+main
-ne histoLe joueur ne suit pas une histoire écrite à l'avance.
+Le joueur ne suit pas une histoire écrite à l'avance.
 
 Il écrit la sienne.
 
@@ -39,82 +22,53 @@ Chaque décision influence durablement son existence, ses relations, sa carrièr
 
 Le jeu se déroule dans un univers contemporain vivant où des milliers de systèmes interagissent entre eux.
 
-L'objectif est d'offrir la simulation de vie la plus profonde, la plus libre et la plus crédible jamais réalisée.
+Chroniques a pour ambition d'offrir une simulation de vie profonde, libre et crédible, où chaque décision construit une histoire unique.
 
 ---
->>>>>>>-origin/main
-itLife et la transformer en une véritable simulation immersive.
 
-<<<<<<< main
-Le joueur peut devenir n’importe Le joueur peut devenir n’importe qui.
->>>>>>>+main
->>>>> orLe joueur peut devenir n'importe qui.
->>>>>>>-origin/main
-Construire une famille.
+# Liberté
 
-Entrer dans le crime.
+Le joueur peut devenir n'importe qui.
 
-Devenir une célébrité.
+Il peut notamment :
 
-Investir.
+- Construire une famille.
+- Entrer dans le crime.
+- Devenir une célébrité.
+- Investir.
+- Étudier.
+- Voyager.
+- Créer du contenu sur les réseaux sociaux.
+- Construire un empire.
+- Ou simplement vivre une vie ordinaire.
 
-Étudier.
+Chaque vie devient une Chronique différente.
 
-Voyager.
-
-Créer du contenu sur les réseaux sociaux.
-
-Construire un empire.
-
-Ou simplement vivre une vie ordinaire.
-
-Chaque vie devient une chronique différente.
-
-<<<<<<< main
-—
-
-# Objectifs
-
-Créer une simulation de vie—
-
-# Objectifs
-
-Créer une simulation de vie capable de raconter une infinité d’histoires différentes.
->>>>>>>+main
-e racont---
+---
 
 # Objectifs
 
 Créer une simulation de vie capable de raconter une infinité d'histoires différentes.
->>>>>>>-origin/main
-que chaque action possède des conséquences crédibles.
 
-<<<<<<< main
-Créer un monde qui continue d’évoluer avec ou sans le joueuCréer un monde qui continue d’évoluer avec ou sans le joueur.
+Créer un monde qui continue d'évoluer avec ou sans le joueur.
 
-—
->>>>>>>+main
->>>> oriCréer un monde qui continue d'évoluer avec ou sans le joueur.
+Faire en sorte que chaque action possède des conséquences crédibles.
+
+Proposer une progression organique.
+
+Créer une économie dynamique.
+
+Développer une intelligence artificielle crédible.
+
+Offrir une rejouabilité quasi infinie.
 
 ---
->>>>>>>-origin/main
-ion profonde
-- Progression organique
-- Économie dynamique
-- IA crédible
-- Rejouabilité quasi infinie
-
-<<<<<<< main
-—
 
 # Inspirations
 
 ## Fondations
 
-- BitL—
->>>>>>>+main
-n
-
+- BitLife
 - The Sims
 - Football Manager
 - Crusader Kings III
@@ -129,24 +83,15 @@ n
 - Detroit: Become Human
 - Disco Elysium
 
-—
+---
 
 # Public
 
 18+
 
-—
-main
-
-# ---
->>>>>>>-origin/main
-nce mondiale du —
->>>>>>>+main
- de vie.---
->>>>>>>-origin/main
+Public adulte.
 
 ---
->>>>>>> origin/main
 
 # Devise
 
