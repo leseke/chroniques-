@@ -1,4 +1,4 @@
-GDB-011A --- Les Interactions
+GDB-011B --- Les Actions
 
 Version : 1.0
 Statut : Officiel
@@ -8,73 +8,71 @@ Type : Interactions & Gameplay
 
 OBJECTIF
 
-Définir les principes fondamentaux des interactions dans Chroniques.
+Définir les principes fondamentaux des actions dans Chroniques.
 
-Les interactions constituent le moyen par lequel le joueur agit sur le 
-monde et par lequel le monde répond à ses actions. Elles relient tous 
-les systèmes du jeu en une expérience cohérente.
+Les actions représentent les décisions concrètes prises par le joueur. 
+Elles permettent d'interagir avec le monde et constituent l'unité 
+fondamentale du gameplay.
 ⸻
 PRINCIPE
 
-Toute interaction produit une conséquence.
+Chaque action possède une intention, un coût et une conséquence.
 
-Cette conséquence peut être immédiate ou différée, locale ou globale, 
-visible ou discrète, mais elle participe toujours à l'évolution du 
-monde.
+Même les actions les plus simples participent à l'évolution du monde 
+lorsqu'elles sont réalisées dans un contexte donné.
 ⸻
-LES FORMES D'INTERACTION
+LES CATÉGORIES D'ACTIONS
 
-Le joueur peut notamment interagir avec :
+Le joueur peut notamment :
 
-	⁃	les habitants ;
-	⁃	les objets ;
-	⁃	les ressources ;
-	⁃	les animaux ;
-	⁃	les végétaux ;
-	⁃	les institutions ;
-	⁃	l'environnement.
+	⁃	observer ;
+	⁃	se déplacer ;
+	⁃	communiquer ;
+	⁃	construire ;
+	⁃	fabriquer ;
+	⁃	récolter ;
+	⁃	échanger ;
+	⁃	créer.
 
-Chaque interaction doit avoir un sens dans le contexte du monde.
+Chaque action doit avoir une utilité cohérente.
 ⸻
 ÉVOLUTION
 
-Les interactions évoluent avec :
+Les actions disponibles évoluent avec :
 
 	⁃	les compétences ;
+	⁃	les connaissances ;
 	⁃	les relations ;
-	⁃	le temps ;
-	⁃	les générations ;
-	⁃	les connaissances acquises.
+	⁃	les outils ;
+	⁃	l'expérience.
 
-Plus le joueur comprend le monde, plus ses possibilités d'interaction 
-s'enrichissent.
+La progression enrichit les possibilités plutôt que de remplacer les 
+anciennes.
 ⸻
 IMPACT
 
-Les interactions influencent :
+Les actions influencent :
 
-	⁃	l'exploration ;
-	⁃	l'économie ;
-	⁃	les sociétés ;
+	⁃	les habitants ;
+	⁃	les ressources ;
+	⁃	les projets ;
 	⁃	les écosystèmes ;
 	⁃	les histoires émergentes.
-
-Elles constituent le cœur du gameplay.
 ⸻
 RÈGLES DE CONCEPTION
 
-Toute mécanique d'interaction devra :
+Toute action devra :
 
-	1.	produire des conséquences crédibles ;
-	2.	respecter la cohérence du monde ;
-	3.	offrir plusieurs approches ;
-	4.	favoriser la liberté du joueur ;
-	5.	enrichir les autres systèmes.
+	1.	avoir un objectif clair ;
+	2.	produire des conséquences crédibles ;
+	3.	respecter la logique du monde ;
+	4.	laisser plusieurs possibilités d'utilisation ;
+	5.	enrichir l'expérience du joueur.
 ⸻
 CRITÈRE DE VALIDATION
 
-Cette interaction donne-t-elle au joueur le sentiment d'agir 
-réellement sur un monde vivant plutôt que d'activer un simple script ?
+Cette action donne-t-elle au joueur une véritable capacité d'agir sur 
+le monde plutôt qu'une simple animation ?
 
 Si la réponse est non, elle devra être repensée.
 ⸻
