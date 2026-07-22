@@ -1,6 +1,8 @@
 # MASTER-002 — Principes Fondamentaux
 
 Version : 2.0
+Statut : Officiel
+Type : Principes Fondateurs
 
 ---
 
