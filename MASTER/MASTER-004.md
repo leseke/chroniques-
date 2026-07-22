@@ -1,6 +1,6 @@
 # MASTER-004 — Conventions de Documentation
 
-Version : 1.0
+Version : 1.1
 Statut : Officiel
 Type : Convention
 
@@ -78,8 +78,10 @@ Chaque document se termine par un critère de validation : une question opposabl
 Toute citation d'un autre document s'écrit sous la forme :
 
 ```
-[réf: GDB-005]
+[réf: IDENTIFIANT]
 ```
+
+Les exemples de cette convention utilisent le mot IDENTIFIANT afin de ne pas être comptés comme des références réelles.
 
 L'index des dépendances est généré automatiquement à partir de ces marqueurs. Il n'est jamais tenu à la main.
 
